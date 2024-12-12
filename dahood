@@ -290,7 +290,7 @@ makefolder("Example")
 
   
 
-local Window = libary:new({name = "NOMERCY", accent = Color3.fromRGB(175, 252, 149), textsize = 13}) 
+local Window = libary:new({name = "NOMERCY", accent = Color3.fromRGB (0,0,255), textsize = 13}) 
 
 local Legit = Window:page({name = "Legit"}) 
 
